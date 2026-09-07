@@ -1,0 +1,292 @@
+﻿  1# basic_concepts.cpp
+  1# copy_constructor.cpp
+  1# intro_to_inheritance.cpp
+  1# templates_and_friendship.cpp
+  10# conversion_operator.cpp
+  10# custom_swap.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(11,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(29,5): warning C4552: '+': result of expression not used
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(32,11): error C2374: 'si': redefinition; multiple initialization
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10(27,11):
+      see declaration of 'si'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(32,11): error C2086: 'SmallInt si': redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10(27,11):
+      see declaration of 'si'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(34,5): warning C4552: '+': result of expression not used
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(45,11): error C2374: 'si': redefinition; multiple initialization
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10(27,11):
+      see declaration of 'si'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(45,11): error C2086: 'SmallInt si': redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10(27,11):
+      see declaration of 'si'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(46,5): warning C4552: '+': result of expression not used
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# conversion_operator.cpp(47,23): warning C4552: '+': result of expression not used
+  10# explicit_instantiation.cpp
+  10# operations__specific_for_unique_ptr_.cpp
+  1# map.cpp
+  1# read_only_algorithm.cpp
+  1# shared_ptr.cpp
+  10# insert_iterator.cpp
+  10# operations_on_associative_container.cpp
+  10# operations_on_containers3.cpp
+  11# conversion_and_template_type_deduction.cpp
+  11# custom_deleter_for_unique_ptr.cpp
+  11# default_arguments_and_virtual.cpp
+  11# operations_on_containers4.cpp
+  11# stream_iterators.cpp
+  11# mutual_conversions.cpp
+  Generating Code...
+  Compiling...
+  10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp(4,13): error C2653: 'mechanical_car': is not a class or namespace name
+  12# Circumventing_the_Virtual_Mechanism.cpp
+  12# function_parameters_that_use_the_same_template_parameter_type.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\12# function_parameters_that_use_the_same_template_parameter_type.cpp(13,2): error C3878: syntax error: unexpected token 'return' following 'expression'
+  12# reverse_iterators.cpp
+  12# rvalue_reference.cpp
+  12# weak_ptr_specfic_operations.cpp
+  13#  algorithm_structures_and_iterators_categoris.cpp
+  13# explicit_templates_argument.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(14,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  13# move_constructor.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(18,2): error C2672: 'alternative_sum': no matching overloaded function found
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13(9,4):
+      could be 'T3 alternative_sum(T2,T1)'
+          E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13(18,2):
+          'T3 alternative_sum(T2,T1)': could not deduce template argument for 'T3'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(21,27): warning C4244: 'argument': conversion from '__int64' to 'T2', possible loss of data
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(21,27): warning C4244:         with
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(21,27): warning C4244:         [
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(21,27): warning C4244:             T2=float
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\13# explicit_templates_argument.cpp(21,27): warning C4244:         ]
+  14# access_control_and_inheritance_1.cpp
+  14# allocator_class.cpp
+  13# operations_on_containers6.cpp
+  12# operations_on_containers_5.cpp
+  13# specific_operations_to_new.cpp
+  14# algorithm_naming_convention.cpp
+  14# move_assignment_operator.cpp
+  14# operations_on_containers7.cpp
+  14# trailing_return_types_and_type_transformation.cpp
+  15# access_control_and_inheritance_2.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15# access_control_and_inheritance_2.cpp(22,12): error C1075: '{': no matching token found
+  15# function_pointer_and_argument_deduction.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15# function_pointer_and_argument_deduction.cpp(26,2): error C2665: 'func': no overloaded function could convert all the argument types
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(17,6):
+      could be 'void func(int (__cdecl *)(const int &,const int &))'
+          E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(26,2):
+          'void func(int (__cdecl *)(const int &,const int &))': cannot convert argument 1 from 'int (__cdecl *)(T,T)' to 'int (__cdecl *)(const int &,const int &)'
+              E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(26,7):
+              None of the functions with this name in scope match the target type
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(14,6):
+      or       'void func(int (__cdecl *)(const std::string &,const std::string &))'
+          E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(26,2):
+          'void func(int (__cdecl *)(const std::string &,const std::string &))': cannot convert argument 1 from 'int (__cdecl *)(T,T)' to 'int (__cdecl *)(const std::string &,const std::string &)'
+              E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(26,7):
+              None of the functions with this name in scope match the target type
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\15(26,2):
+      while trying to match the argument list '(overloaded-function)'
+  
+  Generating Code...
+  Compiling...
+  15# operations_in_allocator_class.cpp
+  15# synthesized_move_operation.cpp
+  16# Accessibility_of_Derived_to_Base_Conversion.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16# Accessibility_of_Derived_to_Base_Conversion.cpp(20,7): error C2011: 'derived2': 'class' type redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16(17,7):
+      see declaration of 'derived2'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16# Accessibility_of_Derived_to_Base_Conversion.cpp(26,8): error C2374: 'p': redefinition; multiple initialization
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16(25,8):
+      see declaration of 'p'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16# Accessibility_of_Derived_to_Base_Conversion.cpp(26,8): error C2086: 'base *p': redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16(25,8):
+      see declaration of 'p'
+  
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16# Accessibility_of_Derived_to_Base_Conversion.cpp(26,24): error C2027: use of undefined type 'derived2'
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\16(17,7):
+      see declaration of 'derived2'
+  
+  16# algorithms_to_copy_unintialized_memory.cpp
+  11# class_dealing_with_dynamics_memory.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\11# class_dealing_with_dynamics_memory.cpp(86,1): error C1075: '{': no matching token found
+  16# deleted_synthesized_move_operation.cpp
+  17# exempting_individual_members.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\17# exempting_individual_members.cpp(17,7): error C2011: 'derived2': 'class' type redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\17(15,7):
+      see declaration of 'derived2'
+  
+  18# name_collison_and_inheritance.cpp
+  19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp
+  17# the_return_is_rvalue.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\17# the_return_is_rvalue.cpp(14,2): error C2280: 'car::car(const car &)': attempting to reference a deleted function
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\17(10,1):
+      compiler has generated 'car::car' here
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\17(10,1):
+      'car::car(const car &)': function was implicitly deleted because 'car' has a user-defined move assignment operator
+  
+  18# rvalue_get_copies.cpp
+  19# virtual_destructor.cpp
+  2# direct_initializationVSvalue_intialization.cpp
+  2# input_and_output_stream.cpp
+  2# map_and_set.cpp
+  2# operations_common_to_shared_ptr_unique_ptr.cpp
+  2# remember_the_state.cpp
+  2# template_typeAlias.cpp
+  2# write_only_algorithms.cpp
+  2# intro_to_dynamic_binding.cpp
+  Generating Code...
+  Compiling...
+  20# copy_move_assignment_operator_and_constructor.cpp
+  20# move_iterator.cpp
+  21# inherited_constructor_without_boilerplate.cpp
+  21# rvalue_and_lvalue_and member_function.cpp
+  22# characteristics_of_an_inherited_constructor.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\22# characteristics_of_an_inherited_constructor.cpp(44,7): error C2011: 'Derived': 'class' type redefinition
+      E:\Workspace\VisualStudio\cpp_primer\cpp_primer\22(9,7):
+      see declaration of 'Derived'
+  
+  3# arithmetic_and_relational_operators.cpp
+  3# begin_end.cpp
+  3# comparsion_function_to_associative_container.cpp
+  3# copy_assignment_operator.cpp
+  3# intro_to_back_inserter.cpp
+  3# templates_and_static_member_.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\3# templates_and_static_member_.cpp(17,20): warning C4101: 'fi3': unreferenced local variable
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\3# templates_and_static_member_.cpp(15,19): warning C4101: 'fs': unreferenced local variable
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\3# templates_and_static_member_.cpp(17,15): warning C4101: 'fi2': unreferenced local variable
+  3# turnoff_specific_flags.cpp
+  3# Member_Functions _and_Inheritance.cpp
+  4# copy_algorithms.cpp
+  4# default_initialization_and_value_initialization.cpp
+  4# Defining_and_Initializing_a_Container.cpp
+  4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp
+  4# destructor_and_reference.cpp
+  4# pairs.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4267:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61): warning C4267:         ]
+  (compiling source file '4#%20pairs.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\utility(303,61):
+      the template instantiation context (the oldest one first) is
+          E:\Workspace\VisualStudio\cpp_primer\cpp_primer\4(10,3):
+          see reference to function template instantiation 'std::pair<std::string,int>::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64,0>(std::pair<std::basic_string<char,std::char_traits<char>,std::allocator<char>>,unsigned __int64> &&) noexcept' being compiled
+              E:\Workspace\VisualStudio\cpp_primer\cpp_primer\4(10,3):
+              see the first reference to 'std::pair<std::string,int>::pair' in 'process'
+  
+  4# subscript_operator.cpp
+  Generating Code...
+  Compiling...
+  4# template_parameters_and_scope.cpp
+  5# associative_container_additional_typeAlias.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\5# associative_container_additional_typeAlias.cpp(17,32): warning C4101: 'v5': unreferenced local variable
+  5# auto_with_new.cpp
+  5# constructor_and_derived_class.cpp
+  5# flushing_using_a_maniplator.cpp
+  5# postfix_and_prefix.cpp
+  5# reordering_the container_algorithms.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\xlocale(2995,1): error C1060: compiler is out of heap space
+  (compiling source file '5#%20reordering_the%20container_algorithms.cpp')
+  
+  5# rule_of_thumb.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\zmmintrin.h(6808,86): error C1060: compiler is out of heap space
+  (compiling source file '5#%20rule_of_thumb.cpp')
+  
+  5# Sequential_Container_Size-Related_Constructors.cpp
+  5# template_and_static_variables_and_valurType.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_memcpy_s.h(11,10): error C1060: compiler is out of heap space
+  (compiling source file '5#%20template_and_static_variables_and_valurType.cpp')
+  
+  6# array vs array_class.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\cmath(1104,30): error C1060: compiler is out of heap space
+  (compiling source file '6#%20array%20vs%20array_class.cpp')
+  
+  6# associative_conatainer_and_algorithms.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\6# associative_conatainer_and_algorithms.cpp(1,1): error C1060: compiler is out of heap space
+  6# default_member_function.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\6# default_member_function.cpp(1,1): error C1060: compiler is out of heap space
+  6# implement_less_with_template.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\6# implement_less_with_template.cpp(1,1): error C1060: compiler is out of heap space
+  6# member_access_operator.cpp
+E:\Workspace\VisualStudio\cpp_primer\cpp_primer\6# member_access_operator.cpp(1,1): error C1060: compiler is out of heap space
+  6# memory_exhausted_and_new_operator.cpp
+\6# memory_exhausted_and_new_operator.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/6#%20memory_exhausted_and_new_operator.cpp')
+  
+  6# predictors.cpp
+\6# predictors.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/6#%20predictors.cpp')
+  
+  6# static_member_and_inheritance.cpp
+\6# static_member_and_inheritance.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/6#%20static_member_and_inheritance.cpp')
+  
+  6# tie_in_streams.cpp
+\6# tie_in_streams.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/6#%20tie_in_streams.cpp')
+  
+  7# adding_elements_to_associative_container.cpp
+\7# adding_elements_to_associative_container.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/7#%20adding_elements_to_associative_container.cpp')
+  
+  Generating Code...
+  Compiling...
+  7# assignement_and_swap.cpp
+\7# assignement_and_swap.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/7#%20assignement_and_swap.cpp')
+  
+  7# declaration_of_derived_class_1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB8071: Cannot parse tool output 'c1xx: fatal error C1060: compiler is out of heap space' with regex '^In file included from .*$': Exception of type 'System.OutOfMemoryException' was thrown.
+\8# declaration_of_derived_class_2.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/8#%20declaration_of_derived_class_2.cpp')
+  
+\8# operations_on_functions.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/8#%20operations_on_functions.cpp')
+  
+\9# copy_assignment_operator_problem.cpp(1,1): error C1060: compiler is out of heap space
+  (compiling source file '/9#%20copy_assignment_operator_problem.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: The "CL" task failed unexpectedly.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: System.AggregateException: One or more errors occurred. ---> System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Go4(RegexRunner )
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.RegexRunner.Scan(Regex regex, String text, Int32 textbeg, Int32 textend, Int32 textstart, Int32 prevlen, Boolean quick, TimeSpan timeout)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.Regex.Run(Boolean quick, Int32 prevlen, String input, Int32 beginning, Int32 length, Int32 startat)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.Regex.Match(String input, Int32 startat)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ParseLine(String inputLine)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: --- End of stack trace from previous location where exception was thrown ---
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ReportRegexException(String inputLine, Regex regex, Exception e)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ParseLine(String inputLine)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.LogEventsFromTextOutput(String singleLine, MessageImportance messageImportance)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.TrackedVCToolTask.ToolOutputPipe.ProcessQueue()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Threading.Tasks.Task.Execute()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    --- End of inner exception stack trace ---
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.TrackedVCToolTask.ToolOutputPipe.OnProcessFinished()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.TrackedVCToolTask.CloseToolOutputPipes()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.TrackedVCToolTask.Execute()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.BackEnd.TaskExecutionHost.Execute()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.BackEnd.TaskBuilder.<ExecuteInstantiatedTask>d__26.MoveNext()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: ---> (Inner Exception #0) System.OutOfMemoryException: Exception of type 'System.OutOfMemoryException' was thrown.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Go4(RegexRunner )
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.RegexRunner.Scan(Regex regex, String text, Int32 textbeg, Int32 textend, Int32 textstart, Int32 prevlen, Boolean quick, TimeSpan timeout)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.Regex.Run(Boolean quick, Int32 prevlen, String input, Int32 beginning, Int32 length, Int32 startat)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Text.RegularExpressions.Regex.Match(String input, Int32 startat)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ParseLine(String inputLine)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: --- End of stack trace from previous location where exception was thrown ---
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ReportRegexException(String inputLine, Regex regex, Exception e)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.ParseLine(String inputLine)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.VCToolTask.LogEventsFromTextOutput(String singleLine, MessageImportance messageImportance)
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at Microsoft.Build.CPPTasks.TrackedVCToolTask.ToolOutputPipe.ProcessQueue()
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018:    at System.Threading.Tasks.Task.Execute()<---
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(787,5): error MSB4018: 

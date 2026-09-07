@@ -1,0 +1,2575 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\VisualStudio\\cpp_primer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\unamed_namespaces.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\unamed_namespaces.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# namespace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# noexcept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# noexcept.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# try_catch_with_initialzer_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# try_catch_with_initialzer_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# rethrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# rethrow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# exception_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# exception_object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# conversion_in_the_exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# conversion_in_the_exception.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# stack_unwinding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# stack_unwinding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# operations_on_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# erase_operations_in_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# erase_operations_in_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# adding_elements_to_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# adding_elements_to_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# associative_conatainer_and_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# associative_conatainer_and_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# default_initialization_and_value_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# default_initialization_and_value_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# template_typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# template_typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# template_and_static_variables_and_valurType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# template_and_static_variables_and_valurType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# implement_less_with_template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# implement_less_with_template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# member_template_of_ordinarily_class .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# member_template_of_ordinarily_class .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\literal_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\literal_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# explicit_instantiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# explicit_instantiation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# template_function_with_rvalue_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\17# template_function_with_rvalue_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# template_argument_deduction_and reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\16# template_argument_deduction_and reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# function_pointer_and_argument_deduction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\15# function_pointer_and_argument_deduction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# trailing_return_types_and_type_transformation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# trailing_return_types_and_type_transformation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# explicit_templates_argument.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13# explicit_templates_argument.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# conversion_and_template_type_deduction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# conversion_and_template_type_deduction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# templates_and_static_member_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# templates_and_static_member_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# template_parameters_and_scope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# template_parameters_and_scope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# template_default_arguments_and_class_template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# template_default_arguments_and_class_template.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# member_template_of_template_class .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# member_template_of_template_class .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# templates_and_friendship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# templates_and_friendship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# declaration_of_derived_class_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# declaration_of_derived_class_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# Member_Functions _and_Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# Member_Functions _and_Inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\explicitKeyword_inClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\explicitKeyword_inClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\commaOperatorAndSeperator_in_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\commaOperatorAndSeperator_in_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\NDEBUG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\NDEBUG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# operations_specific_to_shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# operations_specific_to_shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# exempting_individual_members.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\17# exempting_individual_members.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# name_collison_and_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\18# name_collison_and_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19# virtual_destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\19# virtual_destructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# inherited_constructor_without_boilerplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\21# inherited_constructor_without_boilerplate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# move_assignment_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# move_assignment_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\delegate_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\delegate_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# intro_to_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# intro_to_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# intro_to_dynamic_binding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# intro_to_dynamic_binding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# access_control_and_inheritance_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# access_control_and_inheritance_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# access_control_and_inheritance_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\15# access_control_and_inheritance_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# static_member_and_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# static_member_and_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# pure_virtual_and_abstract_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13# pure_virtual_and_abstract_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# default_arguments_and_virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# default_arguments_and_virtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# preventing_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# preventing_inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# declaration_of_derived_class_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# declaration_of_derived_class_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# constructor_and_derived_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# constructor_and_derived_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# insert_iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# insert_iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# stream_iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# stream_iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# reverse_iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# reverse_iterators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# member_access_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# member_access_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# postfix_and_prefix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# postfix_and_prefix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# subscript_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# subscript_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# arithmetic_and_relational_operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# arithmetic_and_relational_operators.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# input_and_output_stream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# input_and_output_stream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# basic_concepts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# basic_concepts.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# mutual_conversions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# mutual_conversions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# conversion_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# conversion_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# overloading_with_function_parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# overloading_with_function_parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# operations_on_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# intro_to_back_inserter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# intro_to_back_inserter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# library_define_objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# library_define_objects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# algorithm_naming_convention.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# algorithm_naming_convention.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# move_iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\20# move_iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# copy_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# copy_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# rvalue_get_copies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\18# rvalue_get_copies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# the_return_is_rvalue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\17# the_return_is_rvalue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# copy_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# copy_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# direct_initializationVSvalue_intialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# direct_initializationVSvalue_intialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# copy_assignment_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# copy_assignment_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# synthesized_move_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\15# synthesized_move_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# deleted_synthesized_move_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\16# deleted_synthesized_move_operation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# move_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13# move_constructor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# class_dealing_with_dynamics_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# class_dealing_with_dynamics_memory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# rvalue_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# rvalue_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations__specific_for_unique_ptr_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# operations__specific_for_unique_ptr_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# custom_deleter_for_unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# custom_deleter_for_unique_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# delete_member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# default_member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# default_member_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# rule_of_thumb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# rule_of_thumb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# custom_swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# custom_swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# copy_assignment_operator_problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# copy_assignment_operator_problem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# destructor_and_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# destructor_and_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# shared_ptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# operations_in_allocator_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\15# operations_in_allocator_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# write_only_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# write_only_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# allocator_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# allocator_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\autoTypeSpecfier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\autoTypeSpecfier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# specific_operations_to_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13# specific_operations_to_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# weak_ptr_specfic_operations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# weak_ptr_specfic_operations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# delete_operator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# auto_with_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# auto_with_new.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializerListClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\initializerListClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# associative_container_additional_typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# associative_container_additional_typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# comparsion_function_to_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# comparsion_function_to_associative_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# pairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# pairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# map_and_set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# map_and_set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# bind_with_ref_cref.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# bind_with_ref_cref.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# bind_and_callable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# bind_and_callable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# lambda_expressions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# lambda_expressions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# predictors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# predictors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# reordering_the container_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# reordering_the container_algorithms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# operations_on_containers7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\14# operations_on_containers7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# operations_on_containers6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\13# operations_on_containers6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# operations_on_containers_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\12# operations_on_containers_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# operations_on_containers4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\11# operations_on_containers4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_containers3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\10# operations_on_containers3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# operations_on_containers2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\9# operations_on_containers2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_containers1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# operations_on_containers1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# assignement_and_swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# assignement_and_swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# array vs array_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# array vs array_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Defining_and_Initializing_a_Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# Defining_and_Initializing_a_Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# begin_end.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# begin_end.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# container_member_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# container_member_types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iterators_in_sequentional_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# iterators_in_sequentional_container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# turnoff_specific_flags.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\3# turnoff_specific_flags.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# remember_the_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\2# remember_the_state.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iostate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# iostate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# file_modes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\8# file_modes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# fstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\7# fstream.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# tie_in_streams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\6# tie_in_streams.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# flushing_using_a_maniplator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\5# flushing_using_a_maniplator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# flushing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\4# flushing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# read_only_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\1# read_only_algorithm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\mutableKeyword_inClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\mutableKeyword_inClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\trailing_returnType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\trailing_returnType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\assert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\assert.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_as_parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\array_as_parameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_with_conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\array_with_conversion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\typeAlias.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\terminate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\terminate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\pointer_to_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\pointer_to_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\decltype_to_return_arrayDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\decltype_to_return_arrayDataType.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typesOfLiterals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\typesOfLiterals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\friend_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\friend_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializer_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{226D4839-0101-4969-ABC7-A3FD3CAD5614}|cpp_primer\\cpp_primer.vcxproj|solutionrelative:cpp_primer\\initializer_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "unamed_namespaces.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\unamed_namespaces.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\unamed_namespaces.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\unamed_namespaces.cpp",
+              "RelativeToolTip": "cpp_primer\\unamed_namespaces.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T13:03:50.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "7# namespace.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# namespace.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# namespace.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# namespace.cpp",
+              "RelativeToolTip": "cpp_primer\\7# namespace.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T17:45:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6# noexcept.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# noexcept.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# noexcept.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# noexcept.cpp",
+              "RelativeToolTip": "cpp_primer\\6# noexcept.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T16:17:22.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "5# try_catch_with_initialzer_list.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# try_catch_with_initialzer_list.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# try_catch_with_initialzer_list.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# try_catch_with_initialzer_list.cpp",
+              "RelativeToolTip": "cpp_primer\\5# try_catch_with_initialzer_list.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T12:33:34.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "4# rethrow.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# rethrow.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# rethrow.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# rethrow.cpp",
+              "RelativeToolTip": "cpp_primer\\4# rethrow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T12:09:22.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3# conversion_in_the_exception.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# conversion_in_the_exception.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# conversion_in_the_exception.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# conversion_in_the_exception.cpp",
+              "RelativeToolTip": "cpp_primer\\3# conversion_in_the_exception.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T11:55:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "2# exception_object.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# exception_object.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# exception_object.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# exception_object.cpp",
+              "RelativeToolTip": "cpp_primer\\2# exception_object.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T11:16:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "1# stack_unwinding.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# stack_unwinding.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# stack_unwinding.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# stack_unwinding.cpp",
+              "RelativeToolTip": "cpp_primer\\1# stack_unwinding.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T11:04:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "4# default_initialization_and_value_initialization.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# default_initialization_and_value_initialization.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# default_initialization_and_value_initialization.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# default_initialization_and_value_initialization.cpp",
+              "RelativeToolTip": "cpp_primer\\4# default_initialization_and_value_initialization.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T10:00:21.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "10# operations_on_associative_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_associative_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# operations_on_associative_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_associative_container.cpp",
+              "RelativeToolTip": "cpp_primer\\10# operations_on_associative_container.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-06T07:57:03.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "8# erase_operations_in_associative_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# erase_operations_in_associative_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# erase_operations_in_associative_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# erase_operations_in_associative_container.cpp",
+              "RelativeToolTip": "cpp_primer\\8# erase_operations_in_associative_container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T20:56:00.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "6# associative_conatainer_and_algorithms.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# associative_conatainer_and_algorithms.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# associative_conatainer_and_algorithms.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# associative_conatainer_and_algorithms.cpp",
+              "RelativeToolTip": "cpp_primer\\6# associative_conatainer_and_algorithms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T19:04:42.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "7# adding_elements_to_associative_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# adding_elements_to_associative_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# adding_elements_to_associative_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# adding_elements_to_associative_container.cpp",
+              "RelativeToolTip": "cpp_primer\\7# adding_elements_to_associative_container.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T19:33:08.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "2# template_typeAlias.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# template_typeAlias.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# template_typeAlias.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# template_typeAlias.cpp",
+              "RelativeToolTip": "cpp_primer\\2# template_typeAlias.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T18:39:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "5# template_and_static_variables_and_valurType.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# template_and_static_variables_and_valurType.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# template_and_static_variables_and_valurType.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# template_and_static_variables_and_valurType.cpp",
+              "RelativeToolTip": "cpp_primer\\5# template_and_static_variables_and_valurType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:56:14.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "6# implement_less_with_template.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# implement_less_with_template.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# implement_less_with_template.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# implement_less_with_template.cpp",
+              "RelativeToolTip": "cpp_primer\\6# implement_less_with_template.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T00:15:22.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "8# member_template_of_ordinarily_class .cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# member_template_of_ordinarily_class .cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# member_template_of_ordinarily_class .cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# member_template_of_ordinarily_class .cpp",
+              "RelativeToolTip": "cpp_primer\\8# member_template_of_ordinarily_class .cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T17:12:37.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "12# function_parameters_that_use_the_same_template_parameter_type.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp",
+              "RelativeToolTip": "cpp_primer\\12# function_parameters_that_use_the_same_template_parameter_type.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T12:02:49.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "literal_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\literal_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\literal_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\literal_class.cpp",
+              "RelativeToolTip": "cpp_primer\\literal_class.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T10:50:32.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "10# explicit_instantiation.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# explicit_instantiation.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# explicit_instantiation.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# explicit_instantiation.cpp",
+              "RelativeToolTip": "cpp_primer\\10# explicit_instantiation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T21:25:39.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "17# template_function_with_rvalue_reference.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# template_function_with_rvalue_reference.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\17# template_function_with_rvalue_reference.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# template_function_with_rvalue_reference.cpp",
+              "RelativeToolTip": "cpp_primer\\17# template_function_with_rvalue_reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T19:08:49.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "16# template_argument_deduction_and reference.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# template_argument_deduction_and reference.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\16# template_argument_deduction_and reference.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# template_argument_deduction_and reference.cpp",
+              "RelativeToolTip": "cpp_primer\\16# template_argument_deduction_and reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T18:50:25.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "15# function_pointer_and_argument_deduction.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# function_pointer_and_argument_deduction.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\15# function_pointer_and_argument_deduction.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# function_pointer_and_argument_deduction.cpp",
+              "RelativeToolTip": "cpp_primer\\15# function_pointer_and_argument_deduction.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T17:05:57.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "14# trailing_return_types_and_type_transformation.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# trailing_return_types_and_type_transformation.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# trailing_return_types_and_type_transformation.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# trailing_return_types_and_type_transformation.cpp",
+              "RelativeToolTip": "cpp_primer\\14# trailing_return_types_and_type_transformation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T13:22:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "13# explicit_templates_argument.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# explicit_templates_argument.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13# explicit_templates_argument.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# explicit_templates_argument.cpp",
+              "RelativeToolTip": "cpp_primer\\13# explicit_templates_argument.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T12:34:00.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "11# conversion_and_template_type_deduction.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# conversion_and_template_type_deduction.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# conversion_and_template_type_deduction.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# conversion_and_template_type_deduction.cpp",
+              "RelativeToolTip": "cpp_primer\\11# conversion_and_template_type_deduction.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T11:47:30.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "4# template_parameters_and_scope.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# template_parameters_and_scope.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# template_parameters_and_scope.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# template_parameters_and_scope.cpp",
+              "RelativeToolTip": "cpp_primer\\4# template_parameters_and_scope.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T19:03:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "3# templates_and_static_member_.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# templates_and_static_member_.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# templates_and_static_member_.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# templates_and_static_member_.cpp",
+              "RelativeToolTip": "cpp_primer\\3# templates_and_static_member_.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T18:54:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "7# template_default_arguments_and_class_template.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# template_default_arguments_and_class_template.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# template_default_arguments_and_class_template.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# template_default_arguments_and_class_template.cpp",
+              "RelativeToolTip": "cpp_primer\\7# template_default_arguments_and_class_template.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T01:02:36.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "9# member_template_of_template_class .cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# member_template_of_template_class .cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# member_template_of_template_class .cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# member_template_of_template_class .cpp",
+              "RelativeToolTip": "cpp_primer\\9# member_template_of_template_class .cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T17:27:32.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "1# templates_and_friendship.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# templates_and_friendship.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# templates_and_friendship.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# templates_and_friendship.cpp",
+              "RelativeToolTip": "cpp_primer\\1# templates_and_friendship.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T17:49:15.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "3# Member_Functions _and_Inheritance.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# Member_Functions _and_Inheritance.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# Member_Functions _and_Inheritance.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# Member_Functions _and_Inheritance.cpp",
+              "RelativeToolTip": "cpp_primer\\3# Member_Functions _and_Inheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T15:59:19.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp",
+              "RelativeToolTip": "cpp_primer\\4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T20:05:23.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "7# declaration_of_derived_class_1.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# declaration_of_derived_class_1.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# declaration_of_derived_class_1.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# declaration_of_derived_class_1.cpp",
+              "RelativeToolTip": "cpp_primer\\7# declaration_of_derived_class_1.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T13:03:56.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "commaOperatorAndSeperator_in_switch.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\commaOperatorAndSeperator_in_switch.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\commaOperatorAndSeperator_in_switch.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\commaOperatorAndSeperator_in_switch.cpp",
+              "RelativeToolTip": "cpp_primer\\commaOperatorAndSeperator_in_switch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:12:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "NDEBUG.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\NDEBUG.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\NDEBUG.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\NDEBUG.cpp",
+              "RelativeToolTip": "cpp_primer\\NDEBUG.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-07T15:49:58.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "3# operations_specific_to_shared_ptr.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# operations_specific_to_shared_ptr.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# operations_specific_to_shared_ptr.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# operations_specific_to_shared_ptr.cpp",
+              "RelativeToolTip": "cpp_primer\\3# operations_specific_to_shared_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T19:58:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "explicitKeyword_inClass.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\explicitKeyword_inClass.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\explicitKeyword_inClass.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\explicitKeyword_inClass.cpp",
+              "RelativeToolTip": "cpp_primer\\explicitKeyword_inClass.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T09:07:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "8# shared_ptr_with_manging_memory_directly.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp",
+              "RelativeToolTip": "cpp_primer\\8# shared_ptr_with_manging_memory_directly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T18:50:26.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "22# characteristics_of_an_inherited_constructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp",
+              "RelativeToolTip": "cpp_primer\\22# characteristics_of_an_inherited_constructor.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T20:07:52.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "2# operations_common_to_shared_ptr_unique_ptr.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp",
+              "RelativeToolTip": "cpp_primer\\2# operations_common_to_shared_ptr_unique_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T19:50:13.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "17# exempting_individual_members.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# exempting_individual_members.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\17# exempting_individual_members.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# exempting_individual_members.cpp",
+              "RelativeToolTip": "cpp_primer\\17# exempting_individual_members.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T13:20:41.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "18# name_collison_and_inheritance.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# name_collison_and_inheritance.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\18# name_collison_and_inheritance.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# name_collison_and_inheritance.cpp",
+              "RelativeToolTip": "cpp_primer\\18# name_collison_and_inheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T13:48:54.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "19# virtual_destructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19# virtual_destructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\19# virtual_destructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19# virtual_destructor.cpp",
+              "RelativeToolTip": "cpp_primer\\19# virtual_destructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T10:48:56.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "21# inherited_constructor_without_boilerplate.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# inherited_constructor_without_boilerplate.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\21# inherited_constructor_without_boilerplate.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# inherited_constructor_without_boilerplate.cpp",
+              "RelativeToolTip": "cpp_primer\\21# inherited_constructor_without_boilerplate.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T19:06:36.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20# copy_move_assignment_operator_and_constructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp",
+              "RelativeToolTip": "cpp_primer\\20# copy_move_assignment_operator_and_constructor.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T16:42:36.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "2# intro_to_dynamic_binding.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# intro_to_dynamic_binding.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# intro_to_dynamic_binding.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# intro_to_dynamic_binding.cpp",
+              "RelativeToolTip": "cpp_primer\\2# intro_to_dynamic_binding.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T15:18:38.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "14# move_assignment_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# move_assignment_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# move_assignment_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# move_assignment_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\14# move_assignment_operator.cpp",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwGkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T16:05:44.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "1# intro_to_inheritance.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# intro_to_inheritance.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# intro_to_inheritance.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# intro_to_inheritance.cpp",
+              "RelativeToolTip": "cpp_primer\\1# intro_to_inheritance.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T14:44:23.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "delegate_constructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\delegate_constructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\delegate_constructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\delegate_constructor.cpp",
+              "RelativeToolTip": "cpp_primer\\delegate_constructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T15:45:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "16# Accessibility_of_Derived_to_Base_Conversion.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp",
+              "RelativeToolTip": "cpp_primer\\16# Accessibility_of_Derived_to_Base_Conversion.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T12:07:35.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "15# access_control_and_inheritance_2.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# access_control_and_inheritance_2.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\15# access_control_and_inheritance_2.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# access_control_and_inheritance_2.cpp",
+              "RelativeToolTip": "cpp_primer\\15# access_control_and_inheritance_2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T10:54:26.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "14# access_control_and_inheritance_1.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# access_control_and_inheritance_1.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# access_control_and_inheritance_1.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# access_control_and_inheritance_1.cpp",
+              "RelativeToolTip": "cpp_primer\\14# access_control_and_inheritance_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T10:45:15.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "12# Circumventing_the_Virtual_Mechanism.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp",
+              "RelativeToolTip": "cpp_primer\\12# Circumventing_the_Virtual_Mechanism.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T17:01:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "11# default_arguments_and_virtual.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# default_arguments_and_virtual.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# default_arguments_and_virtual.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# default_arguments_and_virtual.cpp",
+              "RelativeToolTip": "cpp_primer\\11# default_arguments_and_virtual.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T16:02:50.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "6# static_member_and_inheritance.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# static_member_and_inheritance.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# static_member_and_inheritance.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# static_member_and_inheritance.cpp",
+              "RelativeToolTip": "cpp_primer\\6# static_member_and_inheritance.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T21:15:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "13# pure_virtual_and_abstract_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# pure_virtual_and_abstract_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13# pure_virtual_and_abstract_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# pure_virtual_and_abstract_class.cpp",
+              "RelativeToolTip": "cpp_primer\\13# pure_virtual_and_abstract_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T10:17:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp",
+              "RelativeToolTip": "cpp_primer\\10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T14:18:15.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "9# preventing_inheritance.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# preventing_inheritance.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# preventing_inheritance.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# preventing_inheritance.cpp",
+              "RelativeToolTip": "cpp_primer\\9# preventing_inheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T13:15:40.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "8# declaration_of_derived_class_2.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# declaration_of_derived_class_2.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# declaration_of_derived_class_2.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# declaration_of_derived_class_2.cpp",
+              "RelativeToolTip": "cpp_primer\\8# declaration_of_derived_class_2.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-02T13:06:53.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "5# constructor_and_derived_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# constructor_and_derived_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# constructor_and_derived_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# constructor_and_derived_class.cpp",
+              "RelativeToolTip": "cpp_primer\\5# constructor_and_derived_class.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-01T20:44:10.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "5# postfix_and_prefix.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# postfix_and_prefix.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# postfix_and_prefix.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# postfix_and_prefix.cpp",
+              "RelativeToolTip": "cpp_primer\\5# postfix_and_prefix.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "6# member_access_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# member_access_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# member_access_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# member_access_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\6# member_access_operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "11# stream_iterators.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# stream_iterators.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# stream_iterators.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# stream_iterators.cpp",
+              "RelativeToolTip": "cpp_primer\\11# stream_iterators.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T14:36:01.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "12# reverse_iterators.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# reverse_iterators.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# reverse_iterators.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# reverse_iterators.cpp",
+              "RelativeToolTip": "cpp_primer\\12# reverse_iterators.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T17:14:22.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "10# insert_iterator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# insert_iterator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# insert_iterator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# insert_iterator.cpp",
+              "RelativeToolTip": "cpp_primer\\10# insert_iterator.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T12:12:22.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "4# subscript_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# subscript_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# subscript_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# subscript_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\4# subscript_operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "3# arithmetic_and_relational_operators.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# arithmetic_and_relational_operators.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# arithmetic_and_relational_operators.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# arithmetic_and_relational_operators.cpp",
+              "RelativeToolTip": "cpp_primer\\3# arithmetic_and_relational_operators.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "2# input_and_output_stream.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# input_and_output_stream.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# input_and_output_stream.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# input_and_output_stream.cpp",
+              "RelativeToolTip": "cpp_primer\\2# input_and_output_stream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "1# basic_concepts.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# basic_concepts.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# basic_concepts.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# basic_concepts.cpp",
+              "RelativeToolTip": "cpp_primer\\1# basic_concepts.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "11# mutual_conversions.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# mutual_conversions.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# mutual_conversions.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# mutual_conversions.cpp",
+              "RelativeToolTip": "cpp_primer\\11# mutual_conversions.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T20:13:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "10# conversion_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# conversion_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# conversion_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# conversion_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\10# conversion_operator.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T19:30:12.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "9# overloading_with_function_parameter.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# overloading_with_function_parameter.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# overloading_with_function_parameter.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# overloading_with_function_parameter.cpp",
+              "RelativeToolTip": "cpp_primer\\9# overloading_with_function_parameter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T17:51:10.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "8# operations_on_functions.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_functions.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# operations_on_functions.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_functions.cpp",
+              "RelativeToolTip": "cpp_primer\\8# operations_on_functions.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T16:43:56.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "3# intro_to_back_inserter.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# intro_to_back_inserter.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# intro_to_back_inserter.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# intro_to_back_inserter.cpp",
+              "RelativeToolTip": "cpp_primer\\3# intro_to_back_inserter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T13:26:22.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "7# library_define_objects.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# library_define_objects.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# library_define_objects.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# library_define_objects.cpp",
+              "RelativeToolTip": "cpp_primer\\7# library_define_objects.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T11:15:07.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "21# rvalue_and_lvalue_and member_function.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp",
+              "RelativeToolTip": "cpp_primer\\21# rvalue_and_lvalue_and member_function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T12:54:56.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20# move_iterator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# move_iterator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\20# move_iterator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\20# move_iterator.cpp",
+              "RelativeToolTip": "cpp_primer\\20# move_iterator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T11:19:39.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp",
+              "RelativeToolTip": "cpp_primer\\19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T09:43:46.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "18# rvalue_get_copies.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# rvalue_get_copies.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\18# rvalue_get_copies.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\18# rvalue_get_copies.cpp",
+              "RelativeToolTip": "cpp_primer\\18# rvalue_get_copies.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T15:01:02.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "4# copy_algorithms.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# copy_algorithms.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# copy_algorithms.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# copy_algorithms.cpp",
+              "RelativeToolTip": "cpp_primer\\4# copy_algorithms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T13:44:10.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "16# algorithms_to_copy_unintialized_memory.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp",
+              "RelativeToolTip": "cpp_primer\\16# algorithms_to_copy_unintialized_memory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T14:54:00.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "1# copy_constructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# copy_constructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# copy_constructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# copy_constructor.cpp",
+              "RelativeToolTip": "cpp_primer\\1# copy_constructor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:58.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "17# the_return_is_rvalue.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# the_return_is_rvalue.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\17# the_return_is_rvalue.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\17# the_return_is_rvalue.cpp",
+              "RelativeToolTip": "cpp_primer\\17# the_return_is_rvalue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-26T14:01:32.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "15# synthesized_move_operation.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# synthesized_move_operation.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\15# synthesized_move_operation.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# synthesized_move_operation.cpp",
+              "RelativeToolTip": "cpp_primer\\15# synthesized_move_operation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T17:42:15.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "2# direct_initializationVSvalue_intialization.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# direct_initializationVSvalue_intialization.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# direct_initializationVSvalue_intialization.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# direct_initializationVSvalue_intialization.cpp",
+              "RelativeToolTip": "cpp_primer\\2# direct_initializationVSvalue_intialization.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "3# copy_assignment_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# copy_assignment_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# copy_assignment_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# copy_assignment_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\3# copy_assignment_operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "16# deleted_synthesized_move_operation.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# deleted_synthesized_move_operation.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\16# deleted_synthesized_move_operation.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\16# deleted_synthesized_move_operation.cpp",
+              "RelativeToolTip": "cpp_primer\\16# deleted_synthesized_move_operation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T17:51:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "13# move_constructor.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# move_constructor.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13# move_constructor.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# move_constructor.cpp",
+              "RelativeToolTip": "cpp_primer\\13# move_constructor.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwHIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T15:32:28.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "12# rvalue_reference.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# rvalue_reference.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# rvalue_reference.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# rvalue_reference.cpp",
+              "RelativeToolTip": "cpp_primer\\12# rvalue_reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T14:45:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "11# class_dealing_with_dynamics_memory.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# class_dealing_with_dynamics_memory.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# class_dealing_with_dynamics_memory.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# class_dealing_with_dynamics_memory.cpp",
+              "RelativeToolTip": "cpp_primer\\11# class_dealing_with_dynamics_memory.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-24T14:16:38.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "11# custom_deleter_for_unique_ptr.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# custom_deleter_for_unique_ptr.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# custom_deleter_for_unique_ptr.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# custom_deleter_for_unique_ptr.cpp",
+              "RelativeToolTip": "cpp_primer\\11# custom_deleter_for_unique_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T19:14:29.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "10# operations__specific_for_unique_ptr_.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations__specific_for_unique_ptr_.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# operations__specific_for_unique_ptr_.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations__specific_for_unique_ptr_.cpp",
+              "RelativeToolTip": "cpp_primer\\10# operations__specific_for_unique_ptr_.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T18:51:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "7# delete_member_function.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_member_function.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# delete_member_function.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_member_function.cpp",
+              "RelativeToolTip": "cpp_primer\\7# delete_member_function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "6# default_member_function.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# default_member_function.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# default_member_function.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# default_member_function.cpp",
+              "RelativeToolTip": "cpp_primer\\6# default_member_function.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "5# rule_of_thumb.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# rule_of_thumb.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# rule_of_thumb.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# rule_of_thumb.cpp",
+              "RelativeToolTip": "cpp_primer\\5# rule_of_thumb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "10# custom_swap.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# custom_swap.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# custom_swap.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# custom_swap.cpp",
+              "RelativeToolTip": "cpp_primer\\10# custom_swap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:46:14.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "9# copy_assignment_operator_problem.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# copy_assignment_operator_problem.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# copy_assignment_operator_problem.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# copy_assignment_operator_problem.cpp",
+              "RelativeToolTip": "cpp_primer\\9# copy_assignment_operator_problem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "8# copy_assignment_operator_with_shared_ptr.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp",
+              "RelativeToolTip": "cpp_primer\\8# copy_assignment_operator_with_shared_ptr.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "4# destructor_and_reference.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# destructor_and_reference.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# destructor_and_reference.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# destructor_and_reference.cpp",
+              "RelativeToolTip": "cpp_primer\\4# destructor_and_reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T23:45:59.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "15# operations_in_allocator_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# operations_in_allocator_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\15# operations_in_allocator_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\15# operations_in_allocator_class.cpp",
+              "RelativeToolTip": "cpp_primer\\15# operations_in_allocator_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T14:11:06.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "14# algorithm_naming_convention.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# algorithm_naming_convention.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# algorithm_naming_convention.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# algorithm_naming_convention.cpp",
+              "RelativeToolTip": "cpp_primer\\14# algorithm_naming_convention.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T19:31:55.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "2# write_only_algorithms.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# write_only_algorithms.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# write_only_algorithms.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# write_only_algorithms.cpp",
+              "RelativeToolTip": "cpp_primer\\2# write_only_algorithms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T13:12:32.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "14# allocator_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# allocator_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# allocator_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# allocator_class.cpp",
+              "RelativeToolTip": "cpp_primer\\14# allocator_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T11:35:42.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "13# specific_operations_to_new.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# specific_operations_to_new.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13# specific_operations_to_new.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# specific_operations_to_new.cpp",
+              "RelativeToolTip": "cpp_primer\\13# specific_operations_to_new.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-22T11:47:18.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "12# weak_ptr_specfic_operations.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# weak_ptr_specfic_operations.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# weak_ptr_specfic_operations.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# weak_ptr_specfic_operations.cpp",
+              "RelativeToolTip": "cpp_primer\\12# weak_ptr_specfic_operations.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T19:42:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "autoTypeSpecfier.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\autoTypeSpecfier.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\autoTypeSpecfier.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\autoTypeSpecfier.cpp",
+              "RelativeToolTip": "cpp_primer\\autoTypeSpecfier.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:01:59.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "7# delete_operator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_operator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# delete_operator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# delete_operator.cpp",
+              "RelativeToolTip": "cpp_primer\\7# delete_operator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T18:50:44.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "5# auto_with_new.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# auto_with_new.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# auto_with_new.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# auto_with_new.cpp",
+              "RelativeToolTip": "cpp_primer\\5# auto_with_new.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-21T10:30:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "1# shared_ptr.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# shared_ptr.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# shared_ptr.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# shared_ptr.cpp",
+              "RelativeToolTip": "cpp_primer\\1# shared_ptr.cpp",
+              "ViewState": "AgIAAAAAAADAmZmZmZkOwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-20T19:39:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "9# dereferencing_subscripting_ associative_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp",
+              "RelativeToolTip": "cpp_primer\\9# dereferencing_subscripting_ associative_container.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T21:20:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "5# associative_container_additional_typeAlias.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# associative_container_additional_typeAlias.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# associative_container_additional_typeAlias.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# associative_container_additional_typeAlias.cpp",
+              "RelativeToolTip": "cpp_primer\\5# associative_container_additional_typeAlias.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T18:08:57.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "initializerListClass.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializerListClass.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\initializerListClass.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializerListClass.cpp",
+              "RelativeToolTip": "cpp_primer\\initializerListClass.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T10:53:10.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "3# comparsion_function_to_associative_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# comparsion_function_to_associative_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# comparsion_function_to_associative_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# comparsion_function_to_associative_container.cpp",
+              "RelativeToolTip": "cpp_primer\\3# comparsion_function_to_associative_container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T16:01:40.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "1# map.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# map.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# map.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# map.cpp",
+              "RelativeToolTip": "cpp_primer\\1# map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T14:01:52.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "4# pairs.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# pairs.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# pairs.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# pairs.cpp",
+              "RelativeToolTip": "cpp_primer\\4# pairs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T17:47:36.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "2# map_and_set.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# map_and_set.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# map_and_set.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# map_and_set.cpp",
+              "RelativeToolTip": "cpp_primer\\2# map_and_set.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-18T14:17:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "13#  algorithm_structures_and_iterators_categoris.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp",
+              "RelativeToolTip": "cpp_primer\\13#  algorithm_structures_and_iterators_categoris.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T17:36:31.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "9# bind_with_ref_cref.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# bind_with_ref_cref.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# bind_with_ref_cref.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# bind_with_ref_cref.cpp",
+              "RelativeToolTip": "cpp_primer\\9# bind_with_ref_cref.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T09:35:56.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "8# bind_and_callable.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# bind_and_callable.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# bind_and_callable.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# bind_and_callable.cpp",
+              "RelativeToolTip": "cpp_primer\\8# bind_and_callable.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T09:11:26.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "7# lambda_expressions.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# lambda_expressions.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# lambda_expressions.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# lambda_expressions.cpp",
+              "RelativeToolTip": "cpp_primer\\7# lambda_expressions.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T16:32:30.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "6# predictors.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# predictors.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# predictors.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# predictors.cpp",
+              "RelativeToolTip": "cpp_primer\\6# predictors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:29:29.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "5# reordering_the container_algorithms.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# reordering_the container_algorithms.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# reordering_the container_algorithms.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# reordering_the container_algorithms.cpp",
+              "RelativeToolTip": "cpp_primer\\5# reordering_the container_algorithms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T14:51:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "14# operations_on_containers7.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# operations_on_containers7.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\14# operations_on_containers7.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\14# operations_on_containers7.cpp",
+              "RelativeToolTip": "cpp_primer\\14# operations_on_containers7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "13# operations_on_containers6.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# operations_on_containers6.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\13# operations_on_containers6.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\13# operations_on_containers6.cpp",
+              "RelativeToolTip": "cpp_primer\\13# operations_on_containers6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:53:39.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "12# operations_on_containers_5.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# operations_on_containers_5.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\12# operations_on_containers_5.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\12# operations_on_containers_5.cpp",
+              "RelativeToolTip": "cpp_primer\\12# operations_on_containers_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "11# operations_on_containers4.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# operations_on_containers4.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\11# operations_on_containers4.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\11# operations_on_containers4.cpp",
+              "RelativeToolTip": "cpp_primer\\11# operations_on_containers4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "10# operations_on_containers3.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_containers3.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\10# operations_on_containers3.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\10# operations_on_containers3.cpp",
+              "RelativeToolTip": "cpp_primer\\10# operations_on_containers3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "9# operations_on_containers2.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# operations_on_containers2.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\9# operations_on_containers2.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\9# operations_on_containers2.cpp",
+              "RelativeToolTip": "cpp_primer\\9# operations_on_containers2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "8# operations_on_containers1.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_containers1.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# operations_on_containers1.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# operations_on_containers1.cpp",
+              "RelativeToolTip": "cpp_primer\\8# operations_on_containers1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:52:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 130,
+              "Title": "7# assignement_and_swap.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# assignement_and_swap.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# assignement_and_swap.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# assignement_and_swap.cpp",
+              "RelativeToolTip": "cpp_primer\\7# assignement_and_swap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:52:23.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 131,
+              "Title": "6# array vs array_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# array vs array_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# array vs array_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# array vs array_class.cpp",
+              "RelativeToolTip": "cpp_primer\\6# array vs array_class.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 132,
+              "Title": "5# Sequential_Container_Size-Related_Constructors.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp",
+              "RelativeToolTip": "cpp_primer\\5# Sequential_Container_Size-Related_Constructors.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:52:30.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 133,
+              "Title": "4# Defining_and_Initializing_a_Container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Defining_and_Initializing_a_Container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# Defining_and_Initializing_a_Container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# Defining_and_Initializing_a_Container.cpp",
+              "RelativeToolTip": "cpp_primer\\4# Defining_and_Initializing_a_Container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:52:31.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 134,
+              "Title": "3# begin_end.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# begin_end.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# begin_end.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# begin_end.cpp",
+              "RelativeToolTip": "cpp_primer\\3# begin_end.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 135,
+              "Title": "2# container_member_types.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# container_member_types.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# container_member_types.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# container_member_types.cpp",
+              "RelativeToolTip": "cpp_primer\\2# container_member_types.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:03.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 136,
+              "Title": "1# iterators_in_sequentional_container.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iterators_in_sequentional_container.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# iterators_in_sequentional_container.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iterators_in_sequentional_container.cpp",
+              "RelativeToolTip": "cpp_primer\\1# iterators_in_sequentional_container.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T15:52:41.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 137,
+              "Title": "3# turnoff_specific_flags.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# turnoff_specific_flags.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\3# turnoff_specific_flags.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\3# turnoff_specific_flags.cpp",
+              "RelativeToolTip": "cpp_primer\\3# turnoff_specific_flags.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T15:32:36.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 138,
+              "Title": "2# remember_the_state.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# remember_the_state.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\2# remember_the_state.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\2# remember_the_state.cpp",
+              "RelativeToolTip": "cpp_primer\\2# remember_the_state.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T15:22:10.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 139,
+              "Title": "1# iostate.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iostate.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# iostate.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# iostate.cpp",
+              "RelativeToolTip": "cpp_primer\\1# iostate.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:30:09.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 140,
+              "Title": "8# file_modes.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# file_modes.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\8# file_modes.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\8# file_modes.cpp",
+              "RelativeToolTip": "cpp_primer\\8# file_modes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T16:29:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 141,
+              "Title": "7# fstream.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# fstream.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\7# fstream.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\7# fstream.cpp",
+              "RelativeToolTip": "cpp_primer\\7# fstream.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T16:18:43.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 142,
+              "Title": "6# tie_in_streams.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# tie_in_streams.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\6# tie_in_streams.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\6# tie_in_streams.cpp",
+              "RelativeToolTip": "cpp_primer\\6# tie_in_streams.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T16:01:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 143,
+              "Title": "5# flushing_using_a_maniplator.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# flushing_using_a_maniplator.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\5# flushing_using_a_maniplator.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\5# flushing_using_a_maniplator.cpp",
+              "RelativeToolTip": "cpp_primer\\5# flushing_using_a_maniplator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T15:50:47.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 144,
+              "Title": "4# flushing.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# flushing.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\4# flushing.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\4# flushing.cpp",
+              "RelativeToolTip": "cpp_primer\\4# flushing.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T15:37:49.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 145,
+              "Title": "1# read_only_algorithm.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# read_only_algorithm.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\1# read_only_algorithm.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\1# read_only_algorithm.cpp",
+              "RelativeToolTip": "cpp_primer\\1# read_only_algorithm.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-16T12:58:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 146,
+              "Title": "mutableKeyword_inClass.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\mutableKeyword_inClass.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\mutableKeyword_inClass.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\mutableKeyword_inClass.cpp",
+              "RelativeToolTip": "cpp_primer\\mutableKeyword_inClass.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T10:23:27.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 150,
+              "Title": "array_with_conversion.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_with_conversion.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\array_with_conversion.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_with_conversion.cpp",
+              "RelativeToolTip": "cpp_primer\\array_with_conversion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:03:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 148,
+              "Title": "assert.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\assert.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\assert.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\assert.cpp",
+              "RelativeToolTip": "cpp_primer\\assert.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T14:02:33.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 149,
+              "Title": "array_as_parameter.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_as_parameter.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\array_as_parameter.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\array_as_parameter.cpp",
+              "RelativeToolTip": "cpp_primer\\array_as_parameter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T13:42:48.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 153,
+              "Title": "pointer_to_function.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\pointer_to_function.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\pointer_to_function.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\pointer_to_function.cpp",
+              "RelativeToolTip": "cpp_primer\\pointer_to_function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T11:26:15.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 152,
+              "Title": "terminate.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\terminate.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\terminate.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\terminate.cpp",
+              "RelativeToolTip": "cpp_primer\\terminate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T11:25:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 151,
+              "Title": "typeAlias.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typeAlias.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\typeAlias.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typeAlias.cpp",
+              "RelativeToolTip": "cpp_primer\\typeAlias.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T10:48:43.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 147,
+              "Title": "trailing_returnType.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\trailing_returnType.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\trailing_returnType.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\trailing_returnType.cpp",
+              "RelativeToolTip": "cpp_primer\\trailing_returnType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T10:48:28.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 154,
+              "Title": "decltype_to_return_arrayDataType.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\decltype_to_return_arrayDataType.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\decltype_to_return_arrayDataType.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\decltype_to_return_arrayDataType.cpp",
+              "RelativeToolTip": "cpp_primer\\decltype_to_return_arrayDataType.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T10:47:08.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 155,
+              "Title": "typesOfLiterals.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typesOfLiterals.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\typesOfLiterals.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\typesOfLiterals.cpp",
+              "RelativeToolTip": "cpp_primer\\typesOfLiterals.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T11:35:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 156,
+              "Title": "string.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\string.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\string.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\string.cpp",
+              "RelativeToolTip": "cpp_primer\\string.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-18T11:34:59.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 158,
+              "Title": "initializer_list.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializer_list.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\initializer_list.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\initializer_list.cpp",
+              "RelativeToolTip": "cpp_primer\\initializer_list.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T10:52:54.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 157,
+              "Title": "friend_class.cpp",
+              "DocumentMoniker": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\friend_class.cpp",
+              "RelativeDocumentMoniker": "cpp_primer\\friend_class.cpp",
+              "ToolTip": "E:\\Workspace\\VisualStudio\\cpp_primer\\cpp_primer\\friend_class.cpp",
+              "RelativeToolTip": "cpp_primer\\friend_class.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T09:27:23.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

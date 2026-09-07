@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{226d4839-0101-4969-abc7-a3fd3cad5614}</ProjectGuid>
+    <RootNamespace>cppprimer</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="1# basic_concepts.cpp" />
+    <ClCompile Include="1# copy_constructor.cpp" />
+    <ClCompile Include="1# intro_to_inheritance.cpp" />
+    <ClCompile Include="1# stack_unwinding.cpp" />
+    <ClCompile Include="1# templates_and_friendship.cpp" />
+    <ClCompile Include="10# conversion_operator.cpp" />
+    <ClCompile Include="10# custom_swap.cpp" />
+    <ClCompile Include="10# explicit_instantiation.cpp" />
+    <ClCompile Include="10# operations__specific_for_unique_ptr_.cpp" />
+    <ClCompile Include="1# map.cpp" />
+    <ClCompile Include="1# read_only_algorithm.cpp" />
+    <ClCompile Include="1# shared_ptr.cpp" />
+    <ClCompile Include="10# insert_iterator.cpp" />
+    <ClCompile Include="10# operations_on_associative_container.cpp" />
+    <ClCompile Include="10# operations_on_containers3.cpp" />
+    <ClCompile Include="10# using_directives_and_using_declaration.cpp" />
+    <ClCompile Include="11# argument_dependent_lookup.cpp" />
+    <ClCompile Include="11# conversion_and_template_type_deduction.cpp" />
+    <ClCompile Include="11# custom_deleter_for_unique_ptr.cpp" />
+    <ClCompile Include="11# default_arguments_and_virtual.cpp" />
+    <ClCompile Include="11# operations_on_containers4.cpp" />
+    <ClCompile Include="11# stream_iterators.cpp" />
+    <ClCompile Include="11# mutual_conversions.cpp" />
+    <ClCompile Include="10# There_Is_No_Implicit_Conversion_from_Base_to_Derived.cpp" />
+    <ClCompile Include="12# Circumventing_the_Virtual_Mechanism.cpp" />
+    <ClCompile Include="12# function_parameters_that_use_the_same_template_parameter_type.cpp" />
+    <ClCompile Include="12# overloading_and_using_declarations.cpp" />
+    <ClCompile Include="12# reverse_iterators.cpp" />
+    <ClCompile Include="12# rvalue_reference.cpp" />
+    <ClCompile Include="12# weak_ptr_specfic_operations.cpp" />
+    <ClCompile Include="13#  algorithm_structures_and_iterators_categoris.cpp" />
+    <ClCompile Include="13# explicit_templates_argument.cpp" />
+    <ClCompile Include="13# move_constructor.cpp" />
+    <ClCompile Include="14# access_control_and_inheritance_1.cpp" />
+    <ClCompile Include="14# allocator_class.cpp" />
+    <ClCompile Include="13# operations_on_containers6.cpp" />
+    <ClCompile Include="12# operations_on_containers_5.cpp" />
+    <ClCompile Include="13# specific_operations_to_new.cpp" />
+    <ClCompile Include="14# algorithm_naming_convention.cpp" />
+    <ClCompile Include="14# move_assignment_operator.cpp" />
+    <ClCompile Include="14# operations_on_containers7.cpp" />
+    <ClCompile Include="14# trailing_return_types_and_type_transformation.cpp" />
+    <ClCompile Include="15# access_control_and_inheritance_2.cpp" />
+    <ClCompile Include="15# function_pointer_and_argument_deduction.cpp" />
+    <ClCompile Include="15# operations_in_allocator_class.cpp" />
+    <ClCompile Include="15# synthesized_move_operation.cpp" />
+    <ClCompile Include="16# Accessibility_of_Derived_to_Base_Conversion.cpp" />
+    <ClCompile Include="16# algorithms_to_copy_unintialized_memory.cpp" />
+    <ClCompile Include="11# class_dealing_with_dynamics_memory.cpp" />
+    <ClCompile Include="16# deleted_synthesized_move_operation.cpp" />
+    <ClCompile Include="16# template_argument_deduction_and reference.cpp" />
+    <ClCompile Include="17# exempting_individual_members.cpp" />
+    <ClCompile Include="17# template_function_with_rvalue_reference.cpp" />
+    <ClCompile Include="18# name_collison_and_inheritance.cpp" />
+    <ClCompile Include="19 # Copy_and_Swap_Assignment_Operators_and_Move.cpp" />
+    <ClCompile Include="17# the_return_is_rvalue.cpp" />
+    <ClCompile Include="18# rvalue_get_copies.cpp" />
+    <ClCompile Include="19# virtual_destructor.cpp" />
+    <ClCompile Include="2# direct_initializationVSvalue_intialization.cpp" />
+    <ClCompile Include="2# exception_object.cpp" />
+    <ClCompile Include="2# input_and_output_stream.cpp" />
+    <ClCompile Include="2# map_and_set.cpp" />
+    <ClCompile Include="2# operations_common_to_shared_ptr_unique_ptr.cpp" />
+    <ClCompile Include="2# remember_the_state.cpp" />
+    <ClCompile Include="2# template_typeAlias.cpp" />
+    <ClCompile Include="2# write_only_algorithms.cpp" />
+    <ClCompile Include="2# intro_to_dynamic_binding.cpp" />
+    <ClCompile Include="20# copy_move_assignment_operator_and_constructor.cpp" />
+    <ClCompile Include="20# move_iterator.cpp" />
+    <ClCompile Include="21# inherited_constructor_without_boilerplate.cpp" />
+    <ClCompile Include="21# rvalue_and_lvalue_and member_function.cpp" />
+    <ClCompile Include="22# characteristics_of_an_inherited_constructor.cpp" />
+    <ClCompile Include="3# arithmetic_and_relational_operators.cpp" />
+    <ClCompile Include="3# begin_end.cpp" />
+    <ClCompile Include="3# comparsion_function_to_associative_container.cpp" />
+    <ClCompile Include="3# conversion_in_the_exception.cpp" />
+    <ClCompile Include="3# copy_assignment_operator.cpp" />
+    <ClCompile Include="3# intro_to_back_inserter.cpp" />
+    <ClCompile Include="3# templates_and_static_member_.cpp" />
+    <ClCompile Include="3# turnoff_specific_flags.cpp" />
+    <ClCompile Include="3# Member_Functions _and_Inheritance.cpp" />
+    <ClCompile Include="4# copy_algorithms.cpp" />
+    <ClCompile Include="4# default_initialization_and_value_initialization.cpp" />
+    <ClCompile Include="4# Defining_and_Initializing_a_Container.cpp" />
+    <ClCompile Include="4# Derived_Class_Objects_and_the_Derived_to_Base_Conversion.cpp" />
+    <ClCompile Include="4# destructor_and_reference.cpp" />
+    <ClCompile Include="4# pairs.cpp" />
+    <ClCompile Include="4# rethrow.cpp" />
+    <ClCompile Include="4# subscript_operator.cpp" />
+    <ClCompile Include="4# template_parameters_and_scope.cpp" />
+    <ClCompile Include="5# associative_container_additional_typeAlias.cpp" />
+    <ClCompile Include="5# auto_with_new.cpp" />
+    <ClCompile Include="5# constructor_and_derived_class.cpp" />
+    <ClCompile Include="5# flushing_using_a_maniplator.cpp" />
+    <ClCompile Include="5# postfix_and_prefix.cpp" />
+    <ClCompile Include="5# reordering_the container_algorithms.cpp" />
+    <ClCompile Include="5# rule_of_thumb.cpp" />
+    <ClCompile Include="5# Sequential_Container_Size-Related_Constructors.cpp" />
+    <ClCompile Include="5# template_and_static_variables_and_valurType.cpp" />
+    <ClCompile Include="5# try_catch_with_initialzer_list.cpp" />
+    <ClCompile Include="6# array vs array_class.cpp" />
+    <ClCompile Include="6# associative_conatainer_and_algorithms.cpp" />
+    <ClCompile Include="6# default_member_function.cpp" />
+    <ClCompile Include="6# implement_less_with_template.cpp" />
+    <ClCompile Include="6# member_access_operator.cpp" />
+    <ClCompile Include="6# memory_exhausted_and_new_operator.cpp" />
+    <ClCompile Include="6# noexcept.cpp" />
+    <ClCompile Include="6# predictors.cpp" />
+    <ClCompile Include="6# static_member_and_inheritance.cpp" />
+    <ClCompile Include="6# tie_in_streams.cpp" />
+    <ClCompile Include="7# adding_elements_to_associative_container.cpp" />
+    <ClCompile Include="7# assignement_and_swap.cpp" />
+    <ClCompile Include="7# declaration_of_derived_class_1.cpp" />
+    <ClCompile Include="7# delete_member_function.cpp" />
+    <ClCompile Include="7# delete_operator.cpp" />
+    <ClCompile Include="7# library_define_objects.cpp" />
+    <ClCompile Include="7# namespace.cpp" />
+    <ClCompile Include="7# template_default_arguments_and_class_template.cpp" />
+    <ClCompile Include="8# copy_assignment_operator_with_shared_ptr.cpp" />
+    <ClCompile Include="8# declaration_of_derived_class_2.cpp" />
+    <ClCompile Include="8# member_template_of_ordinarily_class .cpp" />
+    <ClCompile Include="8# shared_ptr_with_manging_memory_directly.cpp" />
+    <ClCompile Include="8# operations_on_functions.cpp" />
+    <ClCompile Include="9# copy_assignment_operator_problem.cpp" />
+    <ClCompile Include="9# custom_deleter_for_shared_ptr.cpp" />
+    <ClCompile Include="9# dereferencing_subscripting_ associative_container.cpp" />
+    <ClCompile Include="8# erase_operations_in_associative_container.cpp" />
+    <ClCompile Include="9# bind_with_ref_cref.cpp" />
+    <ClCompile Include="7# fstream.cpp" />
+    <ClCompile Include="7# lambda_expressions.cpp" />
+    <ClCompile Include="8# bind_and_callable.cpp" />
+    <ClCompile Include="8# file_modes.cpp" />
+    <ClCompile Include="8# operations_on_containers1.cpp" />
+    <ClCompile Include="9# member_template_of_template_class .cpp" />
+    <ClCompile Include="9# namespace_alias.cpp" />
+    <ClCompile Include="9# operations_on_containers2.cpp" />
+    <ClCompile Include="9# overloading_with_function_parameter.cpp" />
+    <ClCompile Include="9# preventing_inheritance.cpp" />
+    <ClCompile Include="array_as_parameter.cpp" />
+    <ClCompile Include="assert.cpp" />
+    <ClCompile Include="4# flushing.cpp" />
+    <ClCompile Include="constProblemwithClass.cpp" />
+    <ClCompile Include="2# container_member_types.cpp" />
+    <ClCompile Include="default_constructor.cpp" />
+    <ClCompile Include="delegate_constructor.cpp" />
+    <ClCompile Include="explicitKeyword_inClass.cpp" />
+    <ClCompile Include="friend_class.cpp" />
+    <ClCompile Include="initializerListClass.cpp" />
+    <ClCompile Include="1# iterators_in_sequentional_container.cpp" />
+    <ClCompile Include="literal_class.cpp" />
+    <ClCompile Include="mutableKeyword_inClass.cpp" />
+    <ClCompile Include="nonMemberFunction.cpp" />
+    <ClCompile Include="1# iostate.cpp" />
+    <ClCompile Include="3# operations_specific_to_shared_ptr.cpp" />
+    <ClCompile Include="13# pure_virtual_and_abstract_class.cpp" />
+    <ClCompile Include="structVsClass.cpp" />
+    <ClCompile Include="this.cpp" />
+    <ClCompile Include="constexprFunction.cpp" />
+    <ClCompile Include="decltype_to_return_arrayDataType.cpp" />
+    <ClCompile Include="array_with_conversion.cpp" />
+    <ClCompile Include="commaOperatorAndSeperator_in_switch.cpp" />
+    <ClCompile Include="const_parameter_problem.cpp" />
+    <ClCompile Include="decltype.cpp" />
+    <ClCompile Include="initializer_list.cpp" />
+    <ClCompile Include="iterators.cpp" />
+    <ClCompile Include="main_return.cpp" />
+    <ClCompile Include="NDEBUG.cpp" />
+    <ClCompile Include="overloading_problems.cpp" />
+    <ClCompile Include="pointer_to_function.cpp" />
+    <ClCompile Include="pointer_with_conversion.cpp" />
+    <ClCompile Include="ranges_and_multidimensionsArray.cpp" />
+    <ClCompile Include="rvalue_lvalue_returnFromFunction.cpp" />
+    <ClCompile Include="sizeof.cpp" />
+    <ClCompile Include="statement.cpp" />
+    <ClCompile Include="string.cpp" />
+    <ClCompile Include="initialization.cpp" />
+    <ClCompile Include="namespaces.cpp" />
+    <ClCompile Include="ranges.cpp" />
+    <ClCompile Include="scopeVariables.cpp" />
+    <ClCompile Include="EOF.cpp" />
+    <ClCompile Include="autoTypeSpecfier.cpp" />
+    <ClCompile Include="constexpr.cpp" />
+    <ClCompile Include="constReference.cpp" />
+    <ClCompile Include="lowAndTopLevelConst.cpp" />
+    <ClCompile Include="exceptionHandling.cpp" />
+    <ClCompile Include="terminate.cpp" />
+    <ClCompile Include="trailing_returnType.cpp" />
+    <ClCompile Include="typeConversion.cpp" />
+    <ClCompile Include="typeAlias.cpp" />
+    <ClCompile Include="typesOfLiterals.cpp" />
+    <ClCompile Include="8# unamed_namespaces.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
